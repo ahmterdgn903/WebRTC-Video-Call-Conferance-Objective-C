@@ -1,4 +1,3 @@
-janus-gateway-ios-objc++
 WebRTC Video Call Conferance Objective-C++ (simple UI)
 Created by ahmeterdogan.
 Copyright © 2018 ahmeterdogan. All rights reserved.
